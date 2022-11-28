@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "vue.vscode-typescript-vue-plugin",
+        "antfu.vite",
+        "vue.volar"
+    ]
+}

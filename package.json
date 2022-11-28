@@ -1,6 +1,8 @@
 {
   "private": true,
   "scripts": {
+    "reveal": "git secret reveal",
+    "hide": "git secret hide -mv",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
