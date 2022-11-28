@@ -37,7 +37,7 @@ Etude for Nuxt.js.
 ## Prerequisites
 
 - Node.js
-  - Nuxt.js (v3 or higher)
+  - [Nuxt.js](https://nuxt.com/v3) (v3 or higher)
 - [git-secret](https://git-secret.io)
 
 ## How to
