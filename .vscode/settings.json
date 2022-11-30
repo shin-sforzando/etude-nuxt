@@ -1,7 +1,9 @@
 {
-  "cSpell.words": [
-    "nuxt",
-    "nuxtjs",
-    "stylelint"
-  ]
+  "cSpell.words": ["nuxt", "nuxtjs", "stylelint"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.ignorePath": ".prettierignore"
 }

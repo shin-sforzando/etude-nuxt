@@ -5,6 +5,9 @@
     "shd101wyy.markdown-preview-enhanced",
     "vue.volar",
     "vue.vscode-typescript-vue-plugin",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint"
   ]
 }
