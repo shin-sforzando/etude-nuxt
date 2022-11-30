@@ -1,0 +1,5 @@
+{
+  "*.json": ["yarn format --write"],
+  "*.{js,ts,vue}": ["yarn lint:script --fix", "yarn format --write"],
+  "*.{css,scss}": ["yarn lint:style --fix", "yarn format --write"]
+}
